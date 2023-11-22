@@ -1,0 +1,5 @@
+php artisan make:model Post -m #posts
+php artisan make:model PostImage -m #_post_images
+php artisan make:model LikePost -m #liked_posts
+php artisan make:model Comment -m #comments
+php artisan make:model SubscriberFollowing -m #subscriber_followings
